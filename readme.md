@@ -2,7 +2,7 @@
 
 One Paragraph of project description goes here
 
-* [De reis van Discipl](http://erwinelling.gitbub.io/Discipl) - het verhaal
+* [De reis van Discipl](http://erwinelling.github.io/Discipl) - het verhaal
 
 ## Getting Started
 
