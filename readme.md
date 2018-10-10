@@ -12,6 +12,10 @@ Het eind van dit verhaal, daar waar de verdere reis begint, biedt aanknopingspun
 
 Deze versie is bedoeld als een levend document, een verhaal dat aangepast kan worden en waarop voortgebouwd kan worden. We nodigen jullie uit om het te lezen, het op jullie in te laten werken en het er met elkaar over te hebben. Om jullie feedback te verzamelen zullen we jullie over een week of twee een aantal vragen sturen.
 
+Rest ons voor nu nog te zeggen dat we met zeer veel plezier kennis hebben genomen van jullie individuele verhalen én jullie gezamenlijke verhaal, de ins en outs te horen en jullie gedrevenheid te ervaren. Mooi dat het jullie lukt om zulke mooie en belangrijke dingen voor elkaar te krijgen.
+
+Tot nader!
+
 Hartelijke groet,
 Annedien Hoen en Erwin Elling
 Veld organisatieontwikkeling
