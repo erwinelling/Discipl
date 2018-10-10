@@ -16,6 +16,6 @@ Rest ons voor nu nog te zeggen dat we met zeer veel plezier kennis hebben genome
 
 Tot nader!
 
-Hartelijke groet,
-Annedien Hoen en Erwin Elling
+Hartelijke groet,  
+Annedien Hoen en Erwin Elling  
 Veld organisatieontwikkeling
