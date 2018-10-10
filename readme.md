@@ -1,87 +1,17 @@
 # De reis van Discipl
 
-One Paragraph of project description goes here
+[De reis van Discipl](https://erwinelling.github.io/Discipl) beschrijft het verhaal van de geschiedenis van Discipl volgens de structuur van De Reis van de Held. Het bevat inzichten die het team van Discipl heeft opgedaan in een serie strategische sessies met Veld organisatieontwikkeling.
 
-## Getting Started
+Het is bedoeld als:
+* Een gemeenschappelijk verhaal dat de teamleden van Discipl bindt
+* Een stramien voor  een begrijpelijk verhaal (zonder jargon) voor andere belanghebbenden
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Het biedt de basis voor de verdere ontwikkeling van de (communicatie)strategie van Discipl en de organisatieontwikkeling van Discipl. Het is geschreven met het inzicht dat is ontstaan, namelijk dat Discipl naast een club pionierende bevlogen mensen, project, technologie, randvoorwaarden en een visie, ook vooral een beweging is, die bovendien steeds groter wordt.
 
-### Prerequisites
+Het eind van dit verhaal, daar waar de verdere reis begint, biedt aanknopingspunten voor de manier waarop betrokkenen uitgenodigd worden om mee te gaan op de door Discipl ingeslagen weg. Om bondgenoten aan te haken bij de beweging kan het verhaal bijvoorbeeld uitgebreid worden met begrijpelijke praktijkvoorbeelden.
 
-What things you need to install the software and how to install them
+Deze versie is bedoeld als een levend document, een verhaal dat aangepast kan worden en waarop voortgebouwd kan worden. We nodigen jullie uit om het te lezen, het op jullie in te laten werken en het er met elkaar over te hebben. Om jullie feedback te verzamelen zullen we jullie over een week of twee een aantal vragen sturen.
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Hartelijke groet,
+Annedien Hoen en Erwin Elling
+Veld organisatieontwikkeling
